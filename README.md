@@ -1,18 +1,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Anurag Paudel</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate data scientist from Nepal</h3>
 <img align= "right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 - 🔭 I was recently working on **Automatic License Plate Recognition**
 
-- 🌱 I’m currently learning **Tailwind.css, React.js, Python**
+- 🌱 I’m currently learning **LLM, Agentic-AI, RAG**
 
-- 💬 Ask me about **React, Tailwind.css(Basics), JavaScript**
+- 💬 Ask me about **Data cleaning, processing, featuring and training**
 
 - 📫 How to reach me **paudelanurag34@gmail.com**
 
-- ⚡ Fun fact **I think I am funny :- Easyy bruh**
+- ⚡ Fun fact **Everything in this world is already researched by some fellows.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
